@@ -1,3 +1,3 @@
-module github.com/ZhongYingkcio/blocks
+module github.com/ZhongYingkcio/createblox
 
 go 1.19
